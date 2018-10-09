@@ -1,0 +1,4 @@
+export default {
+  'App.username': '用户名',
+  'App.password': '密码',
+}
